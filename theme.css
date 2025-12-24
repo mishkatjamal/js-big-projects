@@ -1,0 +1,66 @@
+:root {
+
+  /* bg colors */
+  --bg-primary-color: rgb(255, 255, 255);
+  --bg-secondary-color: rgb(212, 238, 54);
+  --bg-active-color: rgb(0,0,0);
+  --bg-hover-color:rgb(245, 93, 45);
+
+  /* text colors */
+  --text-primary-color: rgb(0, 0, 0);
+  --text-secondary-color: rgb(212, 238, 54);
+  --text-tertiary-color: rgb(245, 93, 45);
+  --text-hover-color: rgb(255, 255, 255);
+
+  /* paddings */
+  --padding-sm: 0.5rem;
+  --padding-md: 1rem;
+  --padding-lg: 1.5rem;
+  --padding-xl: 2rem;
+  --padding-2xl: 3rem;
+  --padding-3xl: 4rem;
+  --padding-4xl: 5rem;
+  --padding-5xl: 6rem;
+  --padding-6xl: 7rem;
+  --padding-7xl: 8rem;
+  --padding-8xl: 9rem;
+
+  /* margins */
+  --margin-sm: 0.5rem;
+  --margin-md: 1rem;
+  --margin-lg: 1.5rem;
+  --margin-xl: 2rem;
+  --margin-2xl: 3rem;
+  --margin-3xl: 4rem;
+  --margin-4xl: 5rem;
+  --margin-5xl: 6rem;
+  --margin-6xl: 7rem;
+  --margin-7xl: 8rem;
+  --margin-8xl: 9rem;
+
+  /* gutter */
+  --gutter-sm: 0.5rem;
+  --gutter-md: 1rem;
+  --gutter-lg: 1.5rem;
+  --gutter-xl: 2rem;
+  --gutter-2xl: 3rem;
+  --gutter-3xl: 4rem;
+  --gutter-4xl: 5rem;
+  --gutter-5xl: 6rem;
+  --gutter-6xl: 7rem;
+  --gutter-7xl: 8rem;
+  --gutter-8xl: 9rem;
+
+  /* border radius */
+   --border-radius-sm: 0.5px;
+  --border-radius-md: 10px;
+  --border-radius-lg: 15px;
+  --border-radius-xl: 20px;
+  --border-radius-2xl: 25px;
+  --border-radius-3xl: 30px;
+  --border-radius-4xl: 35px;
+  --border-radius-5xl: 40px;
+  --border-radius-6xl: 50px;
+  --border-radius-7xl: 50%;
+  --border-radius-8xl: 100%;
+}
