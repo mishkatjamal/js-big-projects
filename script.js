@@ -118,7 +118,7 @@ function motivational() {
   }
   fetchQuote();
 }
-// motivational();
+motivational();
 
 // ^ pomadoro timer
 
